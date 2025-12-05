@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Arefeh Kabiri 👋</h1>
+<h1 align="center">☀️Arefeh Kabiri</h1>
 <h3 align="center">Python / AI / ML / DL Engineer</h3>
 
 ---
 
-## 🌓 About Me
+## ✏️ About Me
 I am a Python programmer and AI/ML enthusiast with hands-on experience in machine learning, deep learning, and computer vision.  
 I enjoy building AI-driven applications, experimenting with neural networks, and working with modern data science tools.
 
