@@ -106,15 +106,10 @@ Technologies:
 - MediaPipe
 - Computer Vision
 
-
+🔗 Repository:
+https://github.com/ArefehKabiri/AI-Virtual-Mouse-MediaPipe
 ---
 
-### 🖼️ Image Captioning with Deep Learning
-
-A deep learning project focused on generating textual descriptions from images using neural network architectures.
-
-
----
 
 ### 📊 Machine Learning Projects
 
